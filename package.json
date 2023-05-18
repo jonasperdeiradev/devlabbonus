@@ -1,7 +1,7 @@
 {
   "name": "jsqlabs-api",
   "version": "1.0.0",
-  "description": "JsqLabs Official Api to interact with all JsqLabs Apps",
+  "description": "devlabbonus Official Api to interact with all devlabbonus Apps",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
