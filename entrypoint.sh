@@ -2,4 +2,4 @@
 
 nohup npm start &
 
-nohup ./azLambda
+nohup ./main
